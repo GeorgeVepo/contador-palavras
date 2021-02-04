@@ -1,1 +1,1 @@
-docker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=contador123 -e MYSQL_DATABASE=contagempalavras -e MYSQL_USER=sa -e MYSQL_PASSWORD=contador123 -d mysql:latest
+ocker run --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=contador123 -e MYSQL_DATABASE=contagempalavras -e MYSQL_USER=sa -e MYSQL_PASSWORD=contador123 -d mysql:latest
